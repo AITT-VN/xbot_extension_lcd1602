@@ -1,0 +1,14 @@
+{
+    "name": "LCD 1602",
+    "description": "Mục mở rộng sử dụng các module LCD 1602",
+    "libs": [
+        "lcd_1602.py"
+    ],
+    "blocks": [
+        "definition.js"
+    ],
+    "toolbox": "toolbox.xml",
+    "languages": {
+    },
+    "poster": "poster.png"
+}
