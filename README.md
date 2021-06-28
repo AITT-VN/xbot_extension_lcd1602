@@ -1,2 +1,2 @@
-# xbot_extension_minifan
-Mục mở rộng của xBot cho module mini fan
+# xbot_extension_lcd_1602
+Mục mở rộng của xBot cho module LCD 1602
