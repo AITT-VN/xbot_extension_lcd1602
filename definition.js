@@ -160,6 +160,6 @@ Blockly.Python["xbot_lcd_1602_display"] = function (block) {
 
 Blockly.Python["xbot_lcd_1602_clear"] = function (block) {
   // TODO: Assemble Python into code variable.
-  var code = "lcd1602.clear\n";
+  var code = "lcd1602.clear()\n";
   return code;
 };
