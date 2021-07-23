@@ -1,5 +1,5 @@
 <xml xmlns="https://developers.google.com/blockly/xml" id="toolbox" style="display: none">
-  <category name="LCD 1602" colour="#0FBC11" icon="newspaper">
+  <category name="LCD 1602" colour="#ff3399" icon="newspaper">
     <block type="xbot_lcd_1602_create" />
     <block type="xbot_lcd_1602_backlight" />
     <block type="xbot_lcd_1602_display">

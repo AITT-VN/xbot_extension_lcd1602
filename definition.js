@@ -1,7 +1,7 @@
 Blockly.Blocks["xbot_lcd_1602_create"] = {
   init: function () {
     this.jsonInit({
-      colour: "#0FBC11",
+      colour: "#ff3399",
       tooltip: "",
       message0: "%2 tạo màn hình LCD 1602 cổng %1",
       args0: [
@@ -36,7 +36,7 @@ Blockly.Blocks["xbot_lcd_1602_create"] = {
 Blockly.Blocks["xbot_lcd_1602_backlight"] = {
   init: function () {
     this.jsonInit({
-      colour: "#0FBC11",
+      colour: "#ff3399",
       tooltip: "",
       message0: "%2 %1 đèn LCD 1602",
       args0: [
@@ -67,7 +67,7 @@ Blockly.Blocks["xbot_lcd_1602_backlight"] = {
 Blockly.Blocks["xbot_lcd_1602_display"] = {
   init: function () {
     this.jsonInit({
-      colour: "#0FBC11",
+      colour: "#ff3399",
       tooltip: "",
       message0: "%5 LCD 1602 hiện %1 tại x %2 y %3 %4",
       args0: [
@@ -112,7 +112,7 @@ Blockly.Blocks["xbot_lcd_1602_display"] = {
 Blockly.Blocks["xbot_lcd_1602_clear"] = {
   init: function () {
     this.jsonInit({
-      colour: "#0FBC11",
+      colour: "#ff3399",
       tooltip: "",
       message0: "%1 xóa màn hình LCD",
       args0: [
